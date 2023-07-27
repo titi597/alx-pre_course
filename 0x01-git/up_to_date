@@ -1,1 +1,7 @@
-the command is  go to main branch in github.com click README.md file then click edit this file and commit changes and it will be updated
+Navigate to your GitHub Repository.
+Select the Branch: master Button.
+Select the dev branch.
+Select your README.md file.
+Select the pencil tool to edit the file.
+Type some information about your project in the editor. ...
+Directly above the editor, select Preview changes to see how it will look.
